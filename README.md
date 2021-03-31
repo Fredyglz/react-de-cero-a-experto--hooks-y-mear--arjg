@@ -5,3 +5,6 @@ disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 
 ## Introducción a React y conceptos generales
 **_Enlace:_** https://github.com/Fredyglz/introduccion-react-fh-jarg
+
+## Introducción a JavaScript Moderno
+**_Enlace:_** https://github.com/Fredyglz/introduccion-javascript-moderno-fh-jarg
