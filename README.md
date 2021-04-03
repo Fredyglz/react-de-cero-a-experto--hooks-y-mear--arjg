@@ -13,4 +13,4 @@ disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 **_Enlace:_** https://github.com/Fredyglz/primeros-pasos-react-fh-jarg
 
 ## Pruebas unitarias y de integración - Probando las secciones anterioes
-**__Enlace:** https://github.com/Fredyglz/pruebas-unitarias-integracion-react-fh-jarg
+**_Enlace:_** https://github.com/Fredyglz/pruebas-unitarias-integracion-react-fh-jarg
