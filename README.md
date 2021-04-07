@@ -18,3 +18,6 @@ disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 ## Giff ExpertApp - Aplicación
 **_Código:_** https://github.com/Fredyglz/gifexpertapp-react-fh-jarg  
 **_Sitio:_** https://fredyglz.github.io/gifexpertapp-react-fh-jarg/
+
+## Testing - Probando la aplicación de GifExpert
+**_Código:_** https://github.com/Fredyglz/gifexpertapp-testing-react-fh-jarg
