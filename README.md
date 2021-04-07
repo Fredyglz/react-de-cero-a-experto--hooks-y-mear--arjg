@@ -15,6 +15,6 @@ disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 ## Pruebas unitarias y de integración - Probando las secciones anterioes
 **_Código:_** https://github.com/Fredyglz/pruebas-unitarias-integracion-react-fh-jarg
 
-## Giff ExpertApp - Aplicaión
+## Giff ExpertApp - Aplicación
 **_Código:_** https://github.com/Fredyglz/gifexpertapp-react-fh-jarg  
 **_Sitio:_** https://fredyglz.github.io/gifexpertapp-react-fh-jarg/
