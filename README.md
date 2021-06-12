@@ -23,10 +23,10 @@ disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 **_Código:_** https://github.com/Fredyglz/gifexpertapp-testing-react-fh-jarg
 
 ## Profundizando Hooks - Generales  
-**_Código:_** https://github.com/Fredyglz/profundizando-hooks-react-fh-jarg
+**_Código:_** https://github.com/Fredyglz/profundizando-hooks-generales-react-fh-jarg
 
 ## Profundizando Hooks - useReducer  
-**_Código:_** https://github.com/Fredyglz/profundizando-hooks-usereducer-fh-jarg
+**_Código:_** https://github.com/Fredyglz/profundizando-hooks-usereducer-react-fh-jarg
 
 ## Profundizando Hooks - useContext
-**_Código:_** https://github.com/Fredyglz/profundizando-hooks-usecontext-fh-jarg
+**_Código:_** https://github.com/Fredyglz/profundizando-hooks-usecontext-react-fh-jarg
