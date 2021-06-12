@@ -24,3 +24,6 @@ disponible en la plataforma de Udemy lo cuales estaran divididos por secciones.
 
 ## Profundizando Hooks - Generales  
 **_Código:_** https://github.com/Fredyglz/profundizando-hooks-react-fh-jarg
+
+## Profundizando Hooks - useReducer  
+**_Código:_** https://github.com/Fredyglz/profundizando-hooks-usereducer-fh-jarg
